@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TempTest", "TempTest\TempTest.vcxproj", "{0EB7B44E-269F-4907-8856-F1C9E1C4E310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EB7B44E-269F-4907-8856-F1C9E1C4E310}.Debug|x64.ActiveCfg = Debug|x64
+		{0EB7B44E-269F-4907-8856-F1C9E1C4E310}.Debug|x64.Build.0 = Debug|x64
+		{0EB7B44E-269F-4907-8856-F1C9E1C4E310}.Debug|x86.ActiveCfg = Debug|Win32
+		{0EB7B44E-269F-4907-8856-F1C9E1C4E310}.Debug|x86.Build.0 = Debug|Win32
+		{0EB7B44E-269F-4907-8856-F1C9E1C4E310}.Release|x64.ActiveCfg = Release|x64
+		{0EB7B44E-269F-4907-8856-F1C9E1C4E310}.Release|x64.Build.0 = Release|x64
+		{0EB7B44E-269F-4907-8856-F1C9E1C4E310}.Release|x86.ActiveCfg = Release|Win32
+		{0EB7B44E-269F-4907-8856-F1C9E1C4E310}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8B36891-3370-4091-9E0E-A4526AA8FC63}
+	EndGlobalSection
+EndGlobal
